@@ -7,5 +7,5 @@ This notebook displays the preprocessing detail of cervical images, such as imag
 Cervical image analysis_Logistic modeling.ipynb<br /> 
 This notebook shows that the cervix images are classified by a simple logistic regression model with several methods of feature extraction, such as Haralick texture features, Surf, Principal Component Analysis, local directional pattern, and Color histogram.   
 <br /> 
-<font color="red">This is some text!</font> Cervical image analysis_CNN modeling.ipynb<br /> 
+Cervical image analysis_CNN modeling.ipynb<br /> 
 This notebook shows Convolutional neural network modeling on the image data.
