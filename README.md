@@ -4,8 +4,8 @@ In this project, I developed Machine Learning algorithms to classify women cervi
 ### Cervical image analysis_preprocessing-github.ipynb
 This notebook displays the preprocessing detail of cervical images, such as image segmentation and image resize.<br />
 <br /> 
-# Cervical image analysis_Logistic modeling.ipynb
+### Cervical image analysis_Logistic modeling.ipynb
 This notebook shows that the cervix images are classified by a simple logistic regression model with several methods of feature extraction, such as Haralick texture features, Surf, Principal Component Analysis, local directional pattern, and Color histogram.   
 <br /> 
-# Cervical image analysis_CNN modeling.ipynb 
+### Cervical image analysis_CNN modeling.ipynb 
 This notebook shows Convolutional neural network modeling on the image data.
